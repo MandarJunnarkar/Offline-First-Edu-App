@@ -11,13 +11,8 @@
 VITE_SUPABASE_URL=https://irdkopcaaefscqqqennq.supabase.co
 VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImlyZGtvcGNhYWVmc2NxcXFlbm5xIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTU4OTU3OTUsImV4cCI6MjA3MTQ3MTc5NX0.4eXhKwK1ib6ArwzaS7V8gt-vZFzCzJzr_-ld0a9bOq0
 
-# Add Firebase config if using Firebase
-VITE_FIREBASE_API_KEY=your-actual-api-key
-VITE_FIREBASE_AUTH_DOMAIN=your-actual-domain
-VITE_FIREBASE_PROJECT_ID=your-actual-project-id
-VITE_FIREBASE_STORAGE_BUCKET=your-actual-bucket
-VITE_FIREBASE_MESSAGING_SENDER_ID=your-actual-sender-id
-VITE_FIREBASE_APP_ID=your-actual-app-id
+# Note: Firebase has been removed from this project
+# The app now uses only Supabase for backend services
 ```
 
 ### 2. Set Environment Variables in Vercel:
@@ -59,7 +54,7 @@ vercel
 
 ### If you get environment variable errors:
 - ✅ Check that `.env` file exists in project root
-- ✅ Verify all required variables are set in Vercel dashboard
+- ✅ Verify Supabase variables are set in Vercel dashboard
 - ✅ Restart deployment after setting environment variables
 
 ### Build Command
@@ -69,5 +64,5 @@ The build command should be: `npm run build`
 After successful deployment:
 1. Test your app functionality
 2. Verify offline capabilities work
-3. Check that Supabase/Firebase connections work
+3. Check that Supabase connections work
 4. Test PWA installation on mobile devices

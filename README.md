@@ -66,6 +66,7 @@ npm run build
 - **Vite** - Fast build tool and dev server
 - **IndexedDB** - Local content storage
 - **PWA** - Service worker for offline functionality
+- **Supabase** - Backend database and authentication
 
 ### Offline Strategy
 1. **Content Preloading**: Download educational materials when online
