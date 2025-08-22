@@ -1,0 +1,65 @@
+{
+  "content": [
+    {
+      "id": "math-001",
+      "title": "Basic Addition and Subtraction",
+      "type": "video",
+      "subject": "Mathematics",
+      "grade": "Primary 1-3",
+      "size": "12MB",
+      "duration": "8:30",
+      "description": "Learn fundamental addition and subtraction with visual examples and interactive exercises.",
+      "url": "https://api.education.gov.in/videos/math-001.mp4",
+      "thumbnail": "https://api.education.gov.in/thumbnails/math-001.jpg",
+      "tags": ["arithmetic", "basic-math", "primary"],
+      "lastUpdated": "2024-01-15T10:00:00Z"
+    },
+    {
+      "id": "science-001",
+      "title": "Water Cycle Storyboard",
+      "type": "image",
+      "subject": "Science",
+      "grade": "Primary 2-4",
+      "size": "3MB",
+      "description": "Interactive storyboard explaining the water cycle with colorful illustrations and simple text.",
+      "url": "https://api.education.gov.in/images/science-001.jpg",
+      "thumbnail": "https://api.education.gov.in/thumbnails/science-001.jpg",
+      "tags": ["water-cycle", "environment", "natural-science"],
+      "lastUpdated": "2024-01-10T14:30:00Z"
+    },
+    {
+      "id": "english-001",
+      "title": "Grammar Quiz: Parts of Speech",
+      "type": "quiz",
+      "subject": "English",
+      "grade": "Primary 3-5",
+      "size": "1MB",
+      "description": "Interactive quiz to test understanding of nouns, verbs, adjectives, and adverbs.",
+      "url": "https://api.education.gov.in/quizzes/english-001.json",
+      "thumbnail": "https://api.education.gov.in/thumbnails/english-001.jpg",
+      "tags": ["grammar", "parts-of-speech", "quiz"],
+      "lastUpdated": "2024-01-12T09:15:00Z"
+    },
+    {
+      "id": "history-001",
+      "title": "Indian Independence Movement",
+      "type": "video",
+      "subject": "History",
+      "grade": "Primary 4-6",
+      "size": "18MB",
+      "duration": "12:45",
+      "description": "Animated video covering key events and leaders of India's freedom struggle.",
+      "url": "https://api.education.gov.in/videos/history-001.mp4",
+      "thumbnail": "https://api.education.gov.in/thumbnails/history-001.jpg",
+      "tags": ["indian-history", "independence", "freedom-movement"],
+      "lastUpdated": "2024-01-08T16:45:00Z"
+    }
+  ],
+  "metadata": {
+    "totalContent": 4,
+    "lastSync": "2024-01-15T15:00:00Z",
+    "version": "1.0.0",
+    "compression": "high",
+    "targetStorage": "< 1GB per academic year"
+  }
+} 

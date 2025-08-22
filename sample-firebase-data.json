@@ -1,0 +1,71 @@
+{
+  "educational-content": [
+    {
+      "title": "Basic Addition and Subtraction",
+      "type": "video",
+      "subject": "Mathematics",
+      "grade": "Primary 1-3",
+      "size": "12MB",
+      "duration": "8:30",
+      "description": "Learn fundamental addition and subtraction with visual examples and interactive exercises.",
+      "url": "https://firebasestorage.googleapis.com/v0/b/your-project.appspot.com/o/videos%2Fmath-001.mp4",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/your-project.appspot.com/o/thumbnails%2Fmath-001.jpg",
+      "tags": ["arithmetic", "basic-math", "primary"],
+      "createdAt": "2024-01-15T10:00:00Z",
+      "updatedAt": "2024-01-15T10:00:00Z"
+    },
+    {
+      "title": "Water Cycle Storyboard",
+      "type": "image",
+      "subject": "Science",
+      "grade": "Primary 2-4",
+      "size": "3MB",
+      "description": "Interactive storyboard explaining the water cycle with colorful illustrations and simple text.",
+      "url": "https://firebasestorage.googleapis.com/v0/b/your-project.appspot.com/o/images%2Fscience-001.jpg",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/your-project.appspot.com/o/thumbnails%2Fscience-001.jpg",
+      "tags": ["water-cycle", "environment", "natural-science"],
+      "createdAt": "2024-01-10T14:30:00Z",
+      "updatedAt": "2024-01-10T14:30:00Z"
+    },
+    {
+      "title": "Grammar Quiz: Parts of Speech",
+      "type": "quiz",
+      "subject": "English",
+      "grade": "Primary 3-5",
+      "size": "1MB",
+      "description": "Interactive quiz to test understanding of nouns, verbs, adjectives, and adverbs.",
+      "url": "https://firebasestorage.googleapis.com/v0/b/your-project.appspot.com/o/quizzes%2Fenglish-001.json",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/your-project.appspot.com/o/thumbnails%2Fenglish-001.jpg",
+      "tags": ["grammar", "parts-of-speech", "quiz"],
+      "createdAt": "2024-01-12T09:15:00Z",
+      "updatedAt": "2024-01-12T09:15:00Z"
+    },
+    {
+      "title": "Indian Independence Movement",
+      "type": "video",
+      "subject": "History",
+      "grade": "Primary 4-6",
+      "size": "18MB",
+      "duration": "12:45",
+      "description": "Animated video covering key events and leaders of India's freedom struggle.",
+      "url": "https://firebasestorage.googleapis.com/v0/b/your-project.appspot.com/o/videos%2Fhistory-001.mp4",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/your-project.appspot.com/o/thumbnails%2Fhistory-001.jpg",
+      "tags": ["indian-history", "independence", "freedom-movement"],
+      "createdAt": "2024-01-08T16:45:00Z",
+      "updatedAt": "2024-01-08T16:45:00Z"
+    },
+    {
+      "title": "Basic Hindi Alphabet",
+      "type": "image",
+      "subject": "Hindi",
+      "grade": "Primary 1-2",
+      "size": "2MB",
+      "description": "Learn the Hindi alphabet with pronunciation guides and writing practice.",
+      "url": "https://firebasestorage.googleapis.com/v0/b/your-project.appspot.com/o/images%2Fhindi-001.jpg",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/your-project.appspot.com/o/thumbnails%2Fhindi-001.jpg",
+      "tags": ["hindi", "alphabet", "language"],
+      "createdAt": "2024-01-14T11:20:00Z",
+      "updatedAt": "2024-01-14T11:20:00Z"
+    }
+  ]
+} 
